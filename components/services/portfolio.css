@@ -1,0 +1,14 @@
+.projects{
+    display: flex;
+    justify-content: space-evenly;
+    /* flex-flow: row wrap; */
+    /* width: 75%;
+    margin: 50px;   
+    align-items: flex-start; */
+    /* flex-direction: row; */
+    align-items: center;
+    flex-flow: row wrap;
+}
+.projects Cards{
+    width: 50%;
+}

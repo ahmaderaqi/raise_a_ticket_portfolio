@@ -1,0 +1,10 @@
+/* .scroller{
+    display: flex;
+    flex-wrap: wrap;
+} */
+.carousel img{
+    /* padding: 30px 50px; */
+    padding-bottom: 20px;
+    height: 500px;
+    
+}
